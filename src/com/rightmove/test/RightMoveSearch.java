@@ -18,6 +18,7 @@ import org.testng.annotations.AfterSuite;
 
 public class RightMoveSearch {
 	
+	//WebDriver Object 
 	public WebDriver driver; 
 	
   @Test(dataProvider = "dp")

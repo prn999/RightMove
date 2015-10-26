@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17816" started-at="2015-09-30T21:24:31Z" finished-at="2015-09-30T21:24:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17816" started-at="2015-09-30T21:24:31Z" finished-at="2015-09-30T21:24:48Z">
+      <class name="com.rightmove.test.RightMoveSearch">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.rightmove.test.RightMoveSearch@2752f6e2]" name="beforeSuite" is-config="true" duration-ms="15" started-at="2015-09-30T22:24:31Z" finished-at="2015-09-30T22:24:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.rightmove.test.RightMoveSearch@2752f6e2]" name="beforeTest" is-config="true" duration-ms="9800" started-at="2015-09-30T22:24:31Z" finished-at="2015-09-30T22:24:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.rightmove.test.RightMoveSearch@2752f6e2]" name="beforeClass" is-config="true" duration-ms="1" started-at="2015-09-30T22:24:40Z" finished-at="2015-09-30T22:24:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String)[pri:0, instance:com.rightmove.test.RightMoveSearch@2752f6e2]" name="f" duration-ms="5" started-at="2015-09-30T22:24:40Z" data-provider="dp" finished-at="2015-09-30T22:24:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.rightmove.test.RightMoveSearch@2752f6e2]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2015-09-30T22:24:40Z" finished-at="2015-09-30T22:24:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.rightmove.test.RightMoveSearch@2752f6e2]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2015-09-30T22:24:40Z" finished-at="2015-09-30T22:24:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.rightmove.test.RightMoveSearch@2752f6e2]" name="afterMethod" is-config="true" duration-ms="0" started-at="2015-09-30T22:24:40Z" finished-at="2015-09-30T22:24:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String)[pri:0, instance:com.rightmove.test.RightMoveSearch@2752f6e2]" name="f" duration-ms="1" started-at="2015-09-30T22:24:40Z" data-provider="dp" finished-at="2015-09-30T22:24:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.rightmove.test.RightMoveSearch@2752f6e2]" name="afterMethod" is-config="true" duration-ms="3" started-at="2015-09-30T22:24:40Z" finished-at="2015-09-30T22:24:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.rightmove.test.RightMoveSearch@2752f6e2]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2015-09-30T22:24:40Z" finished-at="2015-09-30T22:24:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testSearch()[pri:0, instance:com.rightmove.test.RightMoveSearch@2752f6e2]" name="testSearch" duration-ms="7986" started-at="2015-09-30T22:24:40Z" finished-at="2015-09-30T22:24:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.rightmove.test.RightMoveSearch@2752f6e2]" name="afterMethod" is-config="true" duration-ms="0" started-at="2015-09-30T22:24:48Z" finished-at="2015-09-30T22:24:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.rightmove.test.RightMoveSearch@2752f6e2]" name="afterClass" is-config="true" duration-ms="0" started-at="2015-09-30T22:24:48Z" finished-at="2015-09-30T22:24:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.rightmove.test.RightMoveSearch@2752f6e2]" name="afterTest" is-config="true" duration-ms="1" started-at="2015-09-30T22:24:48Z" finished-at="2015-09-30T22:24:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.rightmove.test.RightMoveSearch@2752f6e2]" name="afterSuite" is-config="true" duration-ms="1" started-at="2015-09-30T22:24:48Z" finished-at="2015-09-30T22:24:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.rightmove.test.RightMoveSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

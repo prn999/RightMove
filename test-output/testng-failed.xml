@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.rightmove.test.RightMoveSearch">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterTest"/>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+          <include name="beforeMethod"/>
+          <include name="testSearch"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- com.rightmove.test.RightMoveSearch -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
